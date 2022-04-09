@@ -1,0 +1,39 @@
+nav a{
+	display: inline-block;
+	width: 100px;
+	text-align: left;
+	text-decoration: none;
+	padding: 10px;
+	color: orange;
+}
+
+/*.carousel-item{
+	width: 50%;
+	height: 25%;
+	margin: 250px;
+	padding: 0;
+	
+}*/
+
+.row{
+	margin: 20px;
+}
+
+footer .col li {
+	list-style: none;
+
+}
+footer .col ul li:first-child
+{
+text-decoration: none;
+}
+
+.col a{
+	text-decoration: none;
+	color: blue;
+
+}
+
+.card{
+	display: flex;
+}
